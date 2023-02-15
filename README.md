@@ -12,3 +12,6 @@ Para poder ayudarnos mejor en el caso de querer compartir una práctica deberás
 es recomendable seguirlos siguientes pasos:
 - Añadir una cabecera a todos los archivos subidos con tu nombre y fecha así como una breve descripción del archivo.
 - Subir los archivos un día o dos después de haberlos entregado
+
+### Mantenido por:
+Unai Pueyo / Jesus Castillo
