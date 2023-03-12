@@ -1,4 +1,4 @@
-package exercices.ex1.bis;
+package exercices.ex1_bis;
 
 
 import java.io.FileWriter;

@@ -13,7 +13,7 @@ Description: Una pel·lícula es caracteritza per un títol, el nom del director
 --------------------------------------------------------------------------------
 */
 
-package exercices.ex1.bis;
+package exercices.ex1_bis;
 
 public class Ex1 {
     
